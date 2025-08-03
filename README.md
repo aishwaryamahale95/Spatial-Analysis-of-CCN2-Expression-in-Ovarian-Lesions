@@ -1,7 +1,7 @@
-## Spatial Analysis of CCN2 Expression in Ovarian Lesions
+## Differential gene expression of CCN2 Expression in Ovarian Lesions
 
 ### Overview
-This R script performs a spatial transcriptomics analysis comparing CCN2 expression between normal (Incidental Fimbriae) and transformed (Incidental STIC) ovarian lesions in epithelial cells. The workflow includes data loading, preprocessing, filtering, statistical testing, and visualization.
+This R script performs a differential gene expression analysis comparing CCN2 expression between normal (Incidental Fimbriae) and transformed (Incidental STIC) ovarian lesions in epithelial cells. The workflow includes data loading, preprocessing, filtering, statistical testing, and visualization.
 
 ---
 
